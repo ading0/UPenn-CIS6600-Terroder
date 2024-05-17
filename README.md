@@ -1,8 +1,7 @@
-## about
-Written by Andrew Ding and Xinran Tao for UPenn's CIS6600 in spring 2024.
-
-## Introduction
+## About
 _Terroder_ is a terrain creation plugin that creates realistic terrain from a low-resolution "uplift" texture.
+
+Written by Andrew Ding and Xinran Tao for UPenn's CIS6600 in spring 2024.
 
 ## Usage
 - Install Maya, or have it installed.
