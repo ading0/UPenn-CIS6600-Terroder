@@ -19,8 +19,11 @@ _Terroder_ is a terrain creation plugin that creates realistic terrain from a lo
 ![](readme_images/top_level_menu.png)
 - One of the items in the _Terroder_ menu provides a help dialog:
 ![](readme_images/help_menu.png)
-- Use the _Create Terroder Mesh_ option to get started.
+- Use the _Create_ _Terroder_ _Mesh_ option to get started.
 
 ## Example Output
+The following table shows typical results. From left to right in each row: the uplift texture, the untextured output terrain mesh, the (approximately) textured output terrain mesh.
 ![](readme_images/output_table.png)
+
+Zooming into specific areas of the output mesh, we can see that it's quite detailed.
 ![](readme_images/output_highlight.png)
